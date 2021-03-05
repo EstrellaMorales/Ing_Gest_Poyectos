@@ -1,6 +1,6 @@
 <h1>Ingeniería y gestión de proyectos</h1>
 
-Repositorio para gestionar el aprendizaje de los conceptos de la asignatura de Ingeniería y gestión de proyectos de 2º de Grado de Ingeniería de la Salud de la Universidad de Burgos online.
+Repositorio para gestionar el aprendizaje de los conceptos de la asignatura de Ingeniería y gestión de proyectos de 2º de Grado de Ingeniería de la Salud de la Universidad de Burgos.
 
 Utilizaremos este repositorio como plantilla para realizar la primera actividad de evaluación continua de la asignatura. <b>El peso de esta actividad es de un 15% sobre el total</b>. Se evaluará la participación equitativa de todos los miembros del equipo, pudiendose solicitar una defensa de la actividad el día de la entrega. 
 
